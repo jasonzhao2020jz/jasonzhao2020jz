@@ -34,8 +34,9 @@ Investigated how litter types and environmental conditions affect UAV-based obje
 
 **Public dataset:** [UAV Litter Detection Dataset](https://github.com/jasonzhao2020jz/uav-litter-detection)
 <p>
-<img src="微信图片_20260208160511_223_55.jpg" alt="Research project photo" width="45%">
-<img src="微信图片_20260208160434_217_55.jpg" alt="Research project photo" width="45%">
+<img src="微信图片_20260208160511_223_55.jpg" alt="Research project photo" width="30%">
+<img src="微信图片_20260208160434_217_55.jpg" alt="Research project photo" width="30%">
+<img src="yolo.jpg" alt="Research project photo" width="30%">
 </p>
 
 ## Publications & Presentations
@@ -52,8 +53,8 @@ Investigated how litter types and environmental conditions affect UAV-based obje
   Manuscript under review at the 10th IEEE International Conference on Robotic Computing & Communication (RoboticCC 2027).
 
  <p> 
-   <img src="IMG_20260728_120052.jpg" alt="Research project photo" width="600"> 
-   <img src="IMG_20260729_135008.jpg" alt="Research project photo" width="600">
+   <img src="IMG_20260728_120052.jpg" alt="Research project photo" width="45%"> 
+   <img src="IMG_20260729_135008.jpg" alt="Research project photo" width="45%">
  </p>
 
 ## Technical Skills
