@@ -56,7 +56,8 @@ Investigated how litter types and environmental conditions affect UAV-based obje
    <img src="IMG_20260728_120052.jpg" alt="Research project photo" width="45%"> 
    <img src="IMG_20260729_135008.jpg" alt="Research project photo" width="45%">
  </p>
-
+  **Presenting my research at ACM PEARC26.** <br>
+  
 ## Technical Skills
 
 - **Programming & Tools:** Python, Java, Linux, Google Colab
@@ -70,3 +71,5 @@ Investigated how litter types and environmental conditions affect UAV-based obje
 I play flute in my school's wind ensemble and marching band. As a team leader with Music of Harmony, I help organize volunteer performances at senior centers and nursing homes, as well as benefit concerts supporting charitable causes.
 
 I also enjoy piano, tennis, and basketball.
+
+**Email: zhao.jz.jason@gmail.com**
