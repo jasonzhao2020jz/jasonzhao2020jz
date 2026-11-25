@@ -17,7 +17,7 @@ My independent research focuses on using UAVs and ground robots for environmenta
 ### GA-Sweep: UAV–UGV Cooperative Litter Collection
 *Independent Research and Engineering Project | July 2026–Present*
 
-Developing a robotic system for litter collection in outdoor green spaces. The system combines UAV-based target mapping with close-range visual correction by a ground robot.
+Developing a robotic system for litter collection in outdoor green spaces. The system combines UAV-based target mapping with close-range visual correction by a ground robot. [Initial Prototype Demo](https://jasonzhao2020jz.github.io/GA-Sweep/demo.mp4)
 
 - Completed UAV mapping benchmarks across three sites and initial ground-robot tests.
 - Developing AprilTag-guided docking and a cooperative funnel-and-gate collection mechanism.
